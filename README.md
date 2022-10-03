@@ -36,13 +36,13 @@
 
 ## 📘 My top projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/felipe-rodrigues-s/find-you-duo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=find-you-duo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>  
    <a href="https://github.com/felipe-rodrigues-s/pagina_do_evento"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=pagina_do_evento&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>
-  <a href="https://github.com/felipe-rodrigues-s/return"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=return&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a> 
-  <a href="https://github.com/felipe-rodrigues-s/Maratona-Discover"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=Maratona-Discover&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>  
-  <a href="https://github.com/felipe-rodrigues-s/Tela-de-Login"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=Tela-de-Login&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a> 
-    <a href="https://github.com/felipe-rodrigues-s/AmazingGraph"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=AmazingGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a> 
+  <a href="https://github.com/felipe-rodrigues-s/return"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=return&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Maratona-Discover"></a> 
+  <a href="https://github.com/felipe-rodrigues-s/Maratona-Discover"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=Maratona-Discover&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>   
+    <a href="https://github.com/felipe-rodrigues-s/AmazingGraph"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=AmazingGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt=""></a> 
+  <a href="https://github.com/felipe-rodrigues-s/Tela-de-Login"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipe-rodrigues-s&repo=Tela-de-Login&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt=""></a>
   </p>  
 
 
