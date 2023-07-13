@@ -34,16 +34,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-## 📘 My top projects
-
-<p align="center">
-  <a href="https://github.com/fel1pe-r-s/find-you-duo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=find-you-duo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>  
-   <a href="https://github.com/fel1pe-r-s/pagina_do_evento"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=pagina_do_evento&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>
-  <a href="https://github.com/fel1pe-r-s/return"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=return&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Maratona-Discover"></a> 
-  <a href="https://github.com/fel1pe-r-s/Maratona-Discover"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=Maratona-Discover&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>   
-    <a href="https://github.com/fel1pe-r-s/AmazingGraph"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=AmazingGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt=""></a> 
-  <a href="https://github.com/fel1pe-r-s/Tela-de-Login"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=Tela-de-Login&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt=""></a>
-  </p>  
 
 
 <p align="left">
