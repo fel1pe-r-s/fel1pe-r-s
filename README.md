@@ -35,6 +35,16 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
+## 📘 My top projects
+
+<p align="center">
+<a href="https://github.com/fel1pe-r-s/Maratona-Discover"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=Maratona-Discover&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Maratona-Discover"></a>
+  <a href="https://github.com/fel1pe-r-s/find-you-duo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=find-you-duo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="find you duo"></a>   
+   <a href=https://github.com/fel1pe-r-s/letmeask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=letmeask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="find you duo"></a>    
+  
+  
+  </p>  
+  
 
 <p align="left">
   <a href="https://github.com/fel1pe-r-s?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -46,3 +56,4 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
