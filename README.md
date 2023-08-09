@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Felipe+Silva;Tenho+24+anos;Sou+Desenvolvedor+Web;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Felipe+Silva;Sou+Desenvolvedor+Web;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fel1pe-r-s&theme=solarized-dark&hide_border=true&border_radius=4&locale=pt-br)](https://git.io/streak-stats) 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fel1pe-r-s&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
