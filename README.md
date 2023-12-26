@@ -14,7 +14,8 @@
 
 <p>
   <a href="https://github.com/fel1pe-r-s/Tasks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=Tasks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Lista de tarefas"></a>
-  <a href="https://github.com/fel1pe-r-s/api-movie-note"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=api-movie-note&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="API de avaliação de filmes"></a>     
+  <a href="https://github.com/fel1pe-r-s/api-movie-note"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=api-movie-note&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="API de avaliação de filmes"></a>    
+   <a href="https://github.com/fel1pe-r-s/focus-time-desafio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fel1pe-r-s&repo=focus-time-desafio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Focus Time"></a>    
   </p>  
   
 
