@@ -5,9 +5,7 @@
 
   ## Contato:
 <div> 
-  <a href = "mailto:1felipersilva1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-r-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://www.canva.com/design/DAF3D30barM/M8Mr56gTyjPXclp-wDgYPg/edit?utm_content=DAF3D30barM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Currículo-%23333?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fel1pe-r-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 📘 Projetos:
